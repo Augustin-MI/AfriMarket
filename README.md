@@ -8,7 +8,7 @@
 - Identifier les tendances, performances produits et comportements clients
 - Produire un rapport professionnel avec visualisations et recommandations
 
-## 🛠️ Solutions Mises en Œuvre
+## 🛠️ Solutions Mises en Oeuvre
 - Import et nettoyage des deux jeux de données (`afrimarket_dataset.csv` et `Afri_Net.csv`)
 - Analyse statistique descriptive et univariée/multivariée
 - Visualisations avancées (distributions, corrélations, top produits, etc.)
