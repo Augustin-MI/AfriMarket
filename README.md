@@ -1,33 +1,44 @@
-# 🛒 AfriMarket - Analyse des Données d'une Entreprise Retail
+# 🛒 AfriMarket - Analyse des Données Retail
 
-**Projet d'analyse de données** complet sur l'entreprise **AfriMarket**.
+**AfriMarket** est un projet complet d’**analyse de données** sur une entreprise de distribution, visant à explorer un jeu de données de ventes pour en extraire des insights business actionnables.
 
 ## 🎯 Objectifs du Projet
-- Explorer et nettoyer un jeu de données retail (ventes, produits, clients)
-- Réaliser une **analyse exploratoire des données (EDA)**
-- Identifier les leviers de croissance et tendances commerciales
-- Produire un rapport professionnel et des visualisations
+- Nettoyer et explorer les données de ventes, produits et clients
+- Réaliser une **Analyse Exploratoire des Données (EDA)**
+- Identifier les tendances, performances produits et comportements clients
+- Produire un rapport professionnel avec visualisations et recommandations
 
-## 📁 Contenu du Repository
+## 🛠️ Solutions Mises en Œuvre
+- Import et nettoyage des deux jeux de données (`afrimarket_dataset.csv` et `Afri_Net.csv`)
+- Analyse statistique descriptive et univariée/multivariée
+- Visualisations avancées (distributions, corrélations, top produits, etc.)
+- Rédaction d’un rapport final synthétisant les insights
 
-- **`afrimarket_dataset.csv`** & **`Afri_Net.csv`** → Jeux de données sources
-- **`Analyse.ipynb`** → Notebook Jupyter principal d'analyse
-- **`Rapport_AfriMarket_Final.pdf`** → Rapport final détaillé
-- **`PROJET PYTHON - ANALYSE DES DONNÉES.pdf`** → Cahier des charges et consignes
-- **`Rapport_AfriMarket_Final.png`** → Capture du dashboard / résultats
+## 📁 Structure du Projet
+
+| Fichier                          | Description |
+|----------------------------------|-----------|
+| `afrimarket_dataset.csv`         | Jeu de données principal |
+| `Afri_Net.csv`                   | Données complémentaires |
+| `Analyse.ipynb`                  | Notebook Jupyter principal |
+| `Rapport_AfriMarket_Final.pdf`   | Rapport final d’analyse |
+| `PROJET PYTHON - ANALYSE DES DONNÉES.pdf` | Cahier des charges |
+| `Rapport_AfriMarket_Final.png`   | Capture des résultats |
 
 ## 🛠️ Technologies utilisées
 - **Python** • **Jupyter Notebook**
-- **Pandas** • **Matplotlib** / **Seaborn**
-- Analyse statistique et visualisation de données
+- **Pandas**, **Matplotlib**, **Seaborn**
 
-## 📊 Résultats
-Analyse complète des performances commerciales avec recommandations stratégiques.
+## 🔗 Liens Rapides
 
-**Auteur** : Augustin MI (Koffivi Augustin)  
-**Date de réalisation** : Février 2026
+[![Voir le Notebook d'Analyse](https://img.shields.io/badge/-Analyse.ipynb-447CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Augustin-MI/AfriMarket/blob/main/Analyse.ipynb)
+
+[![Lire le Rapport Final](https://img.shields.io/badge/-Rapport_AfriMarket_Final.pdf-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Augustin-MI/AfriMarket/blob/main/Rapport_AfriMarket_Final.pdf)
+
+[![Consignes du Projet](https://img.shields.io/badge/-Cahier%20des%20charges-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Augustin-MI/AfriMarket/blob/main/PROJET%20PYTHON%20-%20ANALYSE%20DES%20DONN%C3%89ES.pdf)
 
 ---
-**Liens rapides :**
-- [Voir le Notebook d'analyse](https://github.com/Augustin-MI/AfriMarket/blob/main/Analyse.ipynb)
-- [Rapport Final (PDF)](https://github.com/Augustin-MI/AfriMarket/blob/main/Rapport_AfriMarket_Final.pdf)
+
+**Auteur** : Augustin MI (Koffivi Augustin)  
+**Date** : Février 2026  
+**Domaine** : Data Analysis • Python • Retail Analytics
